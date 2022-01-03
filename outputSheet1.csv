@@ -1,0 +1,308 @@
+Genre1,Genre2,Count
+Mecha,Sci-Fi,0.8003900868
+Sci-Fi,Mecha,0.8003900868
+Adventure,Fantasy,0.6790623983
+Fantasy,Adventure,0.6790623983
+Sci-Fi,Action,0.6311905396
+Adventure,Action,0.6128535962
+Comedy,Ecchi,0.5799222538
+Ecchi,Comedy,0.5799222538
+Mecha,Action,0.5692742785
+Fantasy,Action,0.5395929482
+Comedy,Slice of Life,0.5295834245
+Slice of Life,Comedy,0.5295834245
+Comedy,Romance,0.4527180571
+Romance,Comedy,0.4527180571
+Horror,Supernatural,0.4501741442
+Supernatural,Horror,0.4501741442
+Drama,Romance,0.4494663163
+Romance,Drama,0.4494663163
+Ecchi,Romance,0.4225823041
+Romance,Ecchi,0.4225823041
+Adventure,Sci-Fi,0.4220612274
+Sci-Fi,Adventure,0.4220612274
+Thriller,Mystery,0.4105636298
+Fantasy,Mahou Shoujo,0.4011230993
+Mahou Shoujo,Fantasy,0.4011230993
+Thriller,Psychological,0.3990399584
+Adventure,Comedy,0.3872601396
+Comedy,Adventure,0.3872601396
+Mystery,Supernatural,0.3856449942
+Supernatural,Mystery,0.3856449942
+Comedy,Fantasy,0.3722139339
+Fantasy,Comedy,0.3722139339
+Romance,Slice of Life,0.339094245
+Slice of Life,Romance,0.339094245
+Adventure,Mecha,0.3240025658
+Mecha,Adventure,0.3240025658
+Supernatural,Action,0.3211166675
+Horror,Mystery,0.3144143957
+Mystery,Horror,0.3144143957
+Comedy,Mahou Shoujo,0.3137202965
+Mahou Shoujo,Comedy,0.3137202965
+Drama,Action,0.3002314645
+Comedy,Action,0.2937593445
+Mystery,Psychological,0.2821290353
+Psychological,Mystery,0.2821290353
+Fantasy,Supernatural,0.2709091167
+Supernatural,Fantasy,0.2709091167
+Comedy,Supernatural,0.2682849108
+Supernatural,Comedy,0.2682849108
+Drama,Sci-Fi,0.2569953895
+Sci-Fi,Drama,0.2569953895
+Comedy,Sports,0.2467105596
+Sports,Comedy,0.2467105596
+Drama,Mystery,0.2440114164
+Mystery,Drama,0.2440114164
+Ecchi,Action,0.2429770803
+Adventure,Drama,0.2337504392
+Drama,Adventure,0.2337504392
+Thriller,Horror,0.2275189941
+Drama,Supernatural,0.2265169465
+Supernatural,Drama,0.2265169465
+Fantasy,Romance,0.2254091604
+Romance,Fantasy,0.2254091604
+Adventure,Mahou Shoujo,0.2251323672
+Mahou Shoujo,Adventure,0.2251323672
+Ecchi,Fantasy,0.2251200636
+Fantasy,Ecchi,0.2251200636
+Mystery,Action,0.2246000247
+Drama,Fantasy,0.2186422357
+Fantasy,Drama,0.2186422357
+Drama,Slice of Life,0.2179600534
+Slice of Life,Drama,0.2179600534
+Mahou Shoujo,Action,0.2078831432
+Drama,Psychological,0.2065193648
+Psychological,Drama,0.2065193648
+Comedy,Sci-Fi,0.2063614138
+Sci-Fi,Comedy,0.2063614138
+Thriller,Drama,0.1964605758
+Adventure,Supernatural,0.1950154876
+Supernatural,Adventure,0.1950154876
+Comedy,Drama,0.1877524625
+Drama,Comedy,0.1877524625
+Romance,Supernatural,0.184927472
+Supernatural,Romance,0.184927472
+Ecchi,Slice of Life,0.1836384462
+Slice of Life,Ecchi,0.1836384462
+Horror,Action,0.1812457677
+Fantasy,Sci-Fi,0.1777767578
+Sci-Fi,Fantasy,0.1777767578
+Drama,Sports,0.1709869998
+Sports,Drama,0.1709869998
+Horror,Psychological,0.1708450277
+Psychological,Horror,0.1708450277
+Adventure,Romance,0.1688751607
+Romance,Adventure,0.1688751607
+Ecchi,Supernatural,0.1678123139
+Supernatural,Ecchi,0.1678123139
+Drama,Mecha,0.1620204514
+Mecha,Drama,0.1620204514
+Adventure,Ecchi,0.1602469669
+Ecchi,Adventure,0.1602469669
+Adventure,Mystery,0.1489614565
+Mystery,Adventure,0.1489614565
+Thriller,Supernatural,0.1482454049
+Mahou Shoujo,Romance,0.1460221492
+Romance,Mahou Shoujo,0.1460221492
+Thriller,Action,0.1403536272
+Slice of Life,Sports,0.1388198363
+Sports,Slice of Life,0.1388198363
+Romance,Action,0.1348663558
+Ecchi,Mahou Shoujo,0.134234631
+Mahou Shoujo,Ecchi,0.134234631
+Ecchi,Sci-Fi,0.1163201437
+Sci-Fi,Ecchi,0.1163201437
+Fantasy,Mystery,0.1114094453
+Mystery,Fantasy,0.1114094453
+Psychological,Supernatural,0.1079175984
+Supernatural,Psychological,0.1079175984
+Sports,Action,0.1038048942
+Drama,Mahou Shoujo,0.1013020802
+Mahou Shoujo,Drama,0.1013020802
+Romance,Sci-Fi,0.09442232951
+Sci-Fi,Romance,0.09442232951
+Comedy,Mecha,0.09198094653
+Mecha,Comedy,0.09198094653
+Mystery,Sci-Fi,0.09176413419
+Sci-Fi,Mystery,0.09176413419
+Fantasy,Mecha,0.09124947588
+Mecha,Fantasy,0.09124947588
+Drama,Horror,0.08383383781
+Horror,Drama,0.08383383781
+Music,Slice of Life,0.07813583662
+Slice of Life,Music,0.07813583662
+Fantasy,Horror,0.07249930939
+Horror,Fantasy,0.07249930939
+Comedy,Mystery,0.06819330748
+Mystery,Comedy,0.06819330748
+Ecchi,Sports,0.06504746612
+Sports,Ecchi,0.06504746612
+Fantasy,Slice of Life,0.05771652041
+Slice of Life,Fantasy,0.05771652041
+Slice of Life,Supernatural,0.05445585967
+Supernatural,Slice of Life,0.05445585967
+Drama,Ecchi,0.05188184886
+Ecchi,Drama,0.05188184886
+Mahou Shoujo,Slice of Life,0.05074572746
+Slice of Life,Mahou Shoujo,0.05074572746
+Romance,Sports,0.04639833653
+Sports,Romance,0.04639833653
+Thriller,Sci-Fi,0.04453751357
+Sci-Fi,Supernatural,0.03827395826
+Supernatural,Sci-Fi,0.03827395826
+Adventure,Horror,0.03757097684
+Horror,Adventure,0.03757097684
+Ecchi,Mecha,0.03248487774
+Mecha,Ecchi,0.03248487774
+Mahou Shoujo,Sci-Fi,0.03144028592
+Sci-Fi,Mahou Shoujo,0.03144028592
+Sci-Fi,Sports,0.03001880393
+Sports,Sci-Fi,0.03001880393
+Hentai,Romance,0.02623053072
+Romance,Hentai,0.02623053072
+Horror,Sci-Fi,0.02016378432
+Sci-Fi,Horror,0.02016378432
+Mystery,Romance,0.01690319917
+Romance,Mystery,0.01690319917
+Psychological,Sci-Fi,0.01378133794
+Sci-Fi,Psychological,0.01378133794
+Psychological,Action,0.003931132265
+Adventure,Sports,0.0004221764192
+Sports,Adventure,0.0004221764192
+Mecha,Romance,-0.004952015783
+Romance,Mecha,-0.004952015783
+Mahou Shoujo,Supernatural,-0.01070827495
+Supernatural,Mahou Shoujo,-0.01070827495
+Comedy,Music,-0.01176339269
+Music,Comedy,-0.01176339269
+Adventure,Slice of Life,-0.01478812622
+Slice of Life,Adventure,-0.01478812622
+Mecha,Mystery,-0.0184061525
+Mystery,Mecha,-0.0184061525
+Music,Romance,-0.022998381
+Romance,Music,-0.022998381
+Mecha,Sports,-0.02302478475
+Sports,Mecha,-0.02302478475
+Drama,Music,-0.02690918618
+Music,Drama,-0.02690918618
+Thriller,Mecha,-0.03969229912
+Music,Psychological,-0.03998018698
+Psychological,Music,-0.03998018698
+Fantasy,Sports,-0.04043036707
+Sports,Fantasy,-0.04043036707
+Mahou Shoujo,Mecha,-0.04781772265
+Mecha,Mahou Shoujo,-0.04781772265
+Mecha,Supernatural,-0.05127286817
+Supernatural,Mecha,-0.05127286817
+Mahou Shoujo,Music,-0.05391152419
+Music,Mahou Shoujo,-0.05391152419
+Mahou Shoujo,Sports,-0.05471717837
+Sports,Mahou Shoujo,-0.05471717837
+Comedy,Horror,-0.05785643282
+Horror,Comedy,-0.05785643282
+Horror,Mecha,-0.05803886589
+Mecha,Horror,-0.05803886589
+Music,Sports,-0.06330496548
+Sports,Music,-0.06330496548
+Mecha,Psychological,-0.06710599809
+Psychological,Mecha,-0.06710599809
+Psychological,Romance,-0.07501262271
+Romance,Psychological,-0.07501262271
+Fantasy,Psychological,-0.07569252833
+Psychological,Fantasy,-0.07569252833
+Ecchi,Mystery,-0.07597297764
+Mystery,Ecchi,-0.07597297764
+Fantasy,Music,-0.07605807533
+Music,Fantasy,-0.07605807533
+Sports,Supernatural,-0.07632686595
+Supernatural,Sports,-0.07632686595
+Fantasy,Hentai,-0.07859384029
+Hentai,Fantasy,-0.07859384029
+Music,Sci-Fi,-0.08438367565
+Sci-Fi,Music,-0.08438367565
+Adventure,Psychological,-0.0888511942
+Psychological,Adventure,-0.0888511942
+Hentai,Horror,-0.09032709288
+Horror,Hentai,-0.09032709288
+Mecha,Music,-0.09175812422
+Music,Mecha,-0.09175812422
+Sci-Fi,Slice of Life,-0.09791777798
+Slice of Life,Sci-Fi,-0.09791777798
+Hentai,Supernatural,-0.09944708267
+Supernatural,Hentai,-0.09944708267
+Thriller,Adventure,-0.1005698092
+Comedy,Hentai,-0.1008358547
+Hentai,Comedy,-0.1008358547
+Thriller,Fantasy,-0.1022271978
+Thriller,Slice of Life,-0.1025537809
+Slice of Life,Action,-0.1030317061
+Psychological,Slice of Life,-0.1039277198
+Slice of Life,Psychological,-0.1039277198
+Mystery,Slice of Life,-0.106895622
+Slice of Life,Mystery,-0.106895622
+Hentai,Mahou Shoujo,-0.108191644
+Mahou Shoujo,Hentai,-0.108191644
+Ecchi,Horror,-0.1082594238
+Horror,Ecchi,-0.1082594238
+Adventure,Music,-0.1084670729
+Music,Adventure,-0.1084670729
+Mahou Shoujo,Mystery,-0.1088621007
+Mystery,Mahou Shoujo,-0.1088621007
+Hentai,Music,-0.1108858212
+Music,Hentai,-0.1108858212
+Ecchi,Hentai,-0.1113045671
+Hentai,Ecchi,-0.1113045671
+Ecchi,Music,-0.1118022635
+Music,Ecchi,-0.1118022635
+Music,Action,-0.1130556197
+Horror,Romance,-0.1166521406
+Romance,Horror,-0.1166521406
+Hentai,Sports,-0.1273725433
+Sports,Hentai,-0.1273725433
+Mystery,Sports,-0.1280170886
+Sports,Mystery,-0.1280170886
+Adventure,Hentai,-0.1334813099
+Hentai,Adventure,-0.1334813099
+Hentai,Slice of Life,-0.1344549775
+Slice of Life,Hentai,-0.1344549775
+Hentai,Action,-0.1361706929
+Comedy,Psychological,-0.1374856744
+Psychological,Comedy,-0.1374856744
+Music,Supernatural,-0.1438779938
+Supernatural,Music,-0.1438779938
+Drama,Hentai,-0.1459618187
+Hentai,Drama,-0.1459618187
+Hentai,Sci-Fi,-0.1470859155
+Sci-Fi,Hentai,-0.1470859155
+Hentai,Mecha,-0.1517000171
+Mecha,Hentai,-0.1517000171
+Mahou Shoujo,Psychological,-0.1606880231
+Psychological,Mahou Shoujo,-0.1606880231
+Psychological,Sports,-0.166752794
+Sports,Psychological,-0.166752794
+Mecha,Slice of Life,-0.1675694288
+Slice of Life,Mecha,-0.1675694288
+Horror,Mahou Shoujo,-0.1769608731
+Mahou Shoujo,Horror,-0.1769608731
+Music,Mystery,-0.181710395
+Mystery,Music,-0.181710395
+Thriller,Romance,-0.1819742706
+Hentai,Mystery,-0.1821171724
+Mystery,Hentai,-0.1821171724
+Hentai,Psychological,-0.1839705473
+Psychological,Hentai,-0.1839705473
+Horror,Sports,-0.1842144521
+Sports,Horror,-0.1842144521
+Thriller,Sports,-0.1900080268
+Horror,Music,-0.1960376906
+Music,Horror,-0.1960376906
+Ecchi,Psychological,-0.1964096675
+Psychological,Ecchi,-0.1964096675
+Thriller,Comedy,-0.1966050668
+Horror,Slice of Life,-0.2155194663
+Slice of Life,Horror,-0.2155194663
+Thriller,Mahou Shoujo,-0.2182513546
+Thriller,Music,-0.2275465202
+Thriller,Hentai,-0.2422824018
+Thriller,Ecchi,-0.265173638

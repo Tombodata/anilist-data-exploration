@@ -1,0 +1,360 @@
+"genre1","id1","size1","genre2","id2","size2","cnt"
+"Action",1,3978,"Action",1,3978,3978
+"Action",1,3978,"Adventure",2,3058,1326
+"Action",1,3978,"Comedy",3,5654,1097
+"Action",1,3978,"Drama",4,2636,771
+"Action",1,3978,"Ecchi",5,863,287
+"Action",1,3978,"Fantasy",6,3352,1298
+"Action",1,3978,"Hentai",7,1409,48
+"Action",1,3978,"Horror",8,484,177
+"Action",1,3978,"Mahou Shoujo",9,373,110
+"Action",1,3978,"Mecha",10,1068,661
+"Action",1,3978,"Music",11,1826,90
+"Action",1,3978,"Mystery",12,761,265
+"Action",1,3978,"Psychological",13,699,140
+"Action",1,3978,"Romance",14,2198,403
+"Action",1,3978,"Sci-Fi",15,2516,1316
+"Action",1,3978,"Slice of Life",16,1988,58
+"Action",1,3978,"Sports",17,720,170
+"Action",1,3978,"Supernatural",18,1397,539
+"Action",1,3978,"Thriller",19,173,83
+"Adventure",2,3058,"Action",1,3978,1326
+"Adventure",2,3058,"Adventure",2,3058,3058
+"Adventure",2,3058,"Comedy",3,5654,1099
+"Adventure",2,3058,"Drama",4,2636,508
+"Adventure",2,3058,"Ecchi",5,863,100
+"Adventure",2,3058,"Fantasy",6,3352,1369
+"Adventure",2,3058,"Hentai",7,1409,19
+"Adventure",2,3058,"Horror",8,484,73
+"Adventure",2,3058,"Mahou Shoujo",9,373,69
+"Adventure",2,3058,"Mecha",10,1068,304
+"Adventure",2,3058,"Music",11,1826,52
+"Adventure",2,3058,"Mystery",12,761,168
+"Adventure",2,3058,"Psychological",13,699,58
+"Adventure",2,3058,"Romance",14,2198,338
+"Adventure",2,3058,"Sci-Fi",15,2516,731
+"Adventure",2,3058,"Slice of Life",16,1988,105
+"Adventure",2,3058,"Sports",17,720,41
+"Adventure",2,3058,"Supernatural",18,1397,248
+"Adventure",2,3058,"Thriller",19,173,17
+"Comedy",3,5654,"Action",1,3978,1097
+"Comedy",3,5654,"Adventure",2,3058,1099
+"Comedy",3,5654,"Comedy",3,5654,5654
+"Comedy",3,5654,"Drama",4,2636,610
+"Comedy",3,5654,"Ecchi",5,863,614
+"Comedy",3,5654,"Fantasy",6,3352,1098
+"Comedy",3,5654,"Hentai",7,1409,57
+"Comedy",3,5654,"Horror",8,484,77
+"Comedy",3,5654,"Mahou Shoujo",9,373,167
+"Comedy",3,5654,"Mecha",10,1068,224
+"Comedy",3,5654,"Music",11,1826,195
+"Comedy",3,5654,"Mystery",12,761,188
+"Comedy",3,5654,"Psychological",13,699,58
+"Comedy",3,5654,"Romance",14,2198,1008
+"Comedy",3,5654,"Sci-Fi",15,2516,666
+"Comedy",3,5654,"Slice of Life",16,1988,1118
+"Comedy",3,5654,"Sports",17,720,261
+"Comedy",3,5654,"Supernatural",18,1397,503
+"Comedy",3,5654,"Thriller",19,173,12
+"Drama",4,2636,"Action",1,3978,771
+"Drama",4,2636,"Adventure",2,3058,508
+"Drama",4,2636,"Comedy",3,5654,610
+"Drama",4,2636,"Drama",4,2636,2636
+"Drama",4,2636,"Ecchi",5,863,87
+"Drama",4,2636,"Fantasy",6,3352,521
+"Drama",4,2636,"Hentai",7,1409,29
+"Drama",4,2636,"Horror",8,484,127
+"Drama",4,2636,"Mahou Shoujo",9,373,80
+"Drama",4,2636,"Mecha",10,1068,217
+"Drama",4,2636,"Music",11,1826,165
+"Drama",4,2636,"Mystery",12,761,261
+"Drama",4,2636,"Psychological",13,699,244
+"Drama",4,2636,"Romance",14,2198,779
+"Drama",4,2636,"Sci-Fi",15,2516,541
+"Drama",4,2636,"Slice of Life",16,1988,460
+"Drama",4,2636,"Sports",17,720,186
+"Drama",4,2636,"Supernatural",18,1397,357
+"Drama",4,2636,"Thriller",19,173,80
+"Ecchi",5,863,"Action",1,3978,287
+"Ecchi",5,863,"Adventure",2,3058,100
+"Ecchi",5,863,"Comedy",3,5654,614
+"Ecchi",5,863,"Drama",4,2636,87
+"Ecchi",5,863,"Ecchi",5,863,863
+"Ecchi",5,863,"Fantasy",6,3352,195
+"Ecchi",5,863,"Hentai",7,1409,14
+"Ecchi",5,863,"Horror",8,484,24
+"Ecchi",5,863,"Mahou Shoujo",9,373,26
+"Ecchi",5,863,"Mecha",10,1068,45
+"Ecchi",5,863,"Music",11,1826,14
+"Ecchi",5,863,"Mystery",12,761,18
+"Ecchi",5,863,"Psychological",13,699,17
+"Ecchi",5,863,"Romance",14,2198,320
+"Ecchi",5,863,"Sci-Fi",15,2516,132
+"Ecchi",5,863,"Slice of Life",16,1988,86
+"Ecchi",5,863,"Sports",17,720,29
+"Ecchi",5,863,"Supernatural",18,1397,120
+"Ecchi",5,863,"Thriller",19,173,4
+"Fantasy",6,3352,"Action",1,3978,1298
+"Fantasy",6,3352,"Adventure",2,3058,1369
+"Fantasy",6,3352,"Comedy",3,5654,1098
+"Fantasy",6,3352,"Drama",4,2636,521
+"Fantasy",6,3352,"Ecchi",5,863,195
+"Fantasy",6,3352,"Fantasy",6,3352,3352
+"Fantasy",6,3352,"Hentai",7,1409,87
+"Fantasy",6,3352,"Horror",8,484,103
+"Fantasy",6,3352,"Mahou Shoujo",9,373,176
+"Fantasy",6,3352,"Mecha",10,1068,91
+"Fantasy",6,3352,"Music",11,1826,104
+"Fantasy",6,3352,"Mystery",12,761,144
+"Fantasy",6,3352,"Psychological",13,699,81
+"Fantasy",6,3352,"Romance",14,2198,463
+"Fantasy",6,3352,"Sci-Fi",15,2516,305
+"Fantasy",6,3352,"Slice of Life",16,1988,233
+"Fantasy",6,3352,"Sports",17,720,14
+"Fantasy",6,3352,"Supernatural",18,1397,369
+"Fantasy",6,3352,"Thriller",19,173,22
+"Hentai",7,1409,"Action",1,3978,48
+"Hentai",7,1409,"Adventure",2,3058,19
+"Hentai",7,1409,"Comedy",3,5654,57
+"Hentai",7,1409,"Drama",4,2636,29
+"Hentai",7,1409,"Ecchi",5,863,14
+"Hentai",7,1409,"Fantasy",6,3352,87
+"Hentai",7,1409,"Hentai",7,1409,1409
+"Hentai",7,1409,"Horror",8,484,40
+"Hentai",7,1409,"Mahou Shoujo",9,373,16
+"Hentai",7,1409,"Mecha",10,1068,7
+"Hentai",7,1409,"Music",11,1826,4
+"Hentai",7,1409,"Mystery",12,761,10
+"Hentai",7,1409,"Psychological",13,699,5
+"Hentai",7,1409,"Romance",14,2198,186
+"Hentai",7,1409,"Sci-Fi",15,2516,31
+"Hentai",7,1409,"Slice of Life",16,1988,3
+"Hentai",7,1409,"Sports",17,720,7
+"Hentai",7,1409,"Supernatural",18,1397,62
+"Hentai",7,1409,"Thriller",19,173,1
+"Horror",8,484,"Action",1,3978,177
+"Horror",8,484,"Adventure",2,3058,73
+"Horror",8,484,"Comedy",3,5654,77
+"Horror",8,484,"Drama",4,2636,127
+"Horror",8,484,"Ecchi",5,863,24
+"Horror",8,484,"Fantasy",6,3352,103
+"Horror",8,484,"Hentai",7,1409,40
+"Horror",8,484,"Horror",8,484,484
+"Horror",8,484,"Mahou Shoujo",9,373,3
+"Horror",8,484,"Mecha",10,1068,18
+"Horror",8,484,"Music",11,1826,11
+"Horror",8,484,"Mystery",12,761,120
+"Horror",8,484,"Psychological",13,699,92
+"Horror",8,484,"Romance",14,2198,37
+"Horror",8,484,"Sci-Fi",15,2516,82
+"Horror",8,484,"Slice of Life",16,1988,7
+"Horror",8,484,"Sports",17,720,2
+"Horror",8,484,"Supernatural",18,1397,231
+"Horror",8,484,"Thriller",19,173,41
+"Mahou Shoujo",9,373,"Action",1,3978,110
+"Mahou Shoujo",9,373,"Adventure",2,3058,69
+"Mahou Shoujo",9,373,"Comedy",3,5654,167
+"Mahou Shoujo",9,373,"Drama",4,2636,80
+"Mahou Shoujo",9,373,"Ecchi",5,863,26
+"Mahou Shoujo",9,373,"Fantasy",6,3352,176
+"Mahou Shoujo",9,373,"Hentai",7,1409,16
+"Mahou Shoujo",9,373,"Horror",8,484,3
+"Mahou Shoujo",9,373,"Mahou Shoujo",9,373,373
+"Mahou Shoujo",9,373,"Mecha",10,1068,7
+"Mahou Shoujo",9,373,"Music",11,1826,32
+"Mahou Shoujo",9,373,"Mystery",12,761,9
+"Mahou Shoujo",9,373,"Psychological",13,699,18
+"Mahou Shoujo",9,373,"Romance",14,2198,67
+"Mahou Shoujo",9,373,"Sci-Fi",15,2516,43
+"Mahou Shoujo",9,373,"Slice of Life",16,1988,31
+"Mahou Shoujo",9,373,"Sports",17,720,3
+"Mahou Shoujo",9,373,"Supernatural",18,1397,14
+"Mahou Shoujo",9,373,"Thriller",19,173,9
+"Mecha",10,1068,"Action",1,3978,661
+"Mecha",10,1068,"Adventure",2,3058,304
+"Mecha",10,1068,"Comedy",3,5654,224
+"Mecha",10,1068,"Drama",4,2636,217
+"Mecha",10,1068,"Ecchi",5,863,45
+"Mecha",10,1068,"Fantasy",6,3352,91
+"Mecha",10,1068,"Hentai",7,1409,7
+"Mecha",10,1068,"Horror",8,484,18
+"Mecha",10,1068,"Mahou Shoujo",9,373,7
+"Mecha",10,1068,"Mecha",10,1068,1068
+"Mecha",10,1068,"Music",11,1826,47
+"Mecha",10,1068,"Mystery",12,761,25
+"Mecha",10,1068,"Psychological",13,699,31
+"Mecha",10,1068,"Romance",14,2198,97
+"Mecha",10,1068,"Sci-Fi",15,2516,801
+"Mecha",10,1068,"Slice of Life",16,1988,12
+"Mecha",10,1068,"Sports",17,720,13
+"Mecha",10,1068,"Supernatural",18,1397,23
+"Mecha",10,1068,"Thriller",19,173,10
+"Music",11,1826,"Action",1,3978,90
+"Music",11,1826,"Adventure",2,3058,52
+"Music",11,1826,"Comedy",3,5654,195
+"Music",11,1826,"Drama",4,2636,165
+"Music",11,1826,"Ecchi",5,863,14
+"Music",11,1826,"Fantasy",6,3352,104
+"Music",11,1826,"Hentai",7,1409,4
+"Music",11,1826,"Horror",8,484,11
+"Music",11,1826,"Mahou Shoujo",9,373,32
+"Music",11,1826,"Mecha",10,1068,47
+"Music",11,1826,"Music",11,1826,1826
+"Music",11,1826,"Mystery",12,761,14
+"Music",11,1826,"Psychological",13,699,75
+"Music",11,1826,"Romance",14,2198,133
+"Music",11,1826,"Sci-Fi",15,2516,101
+"Music",11,1826,"Slice of Life",16,1988,200
+"Music",11,1826,"Sports",17,720,26
+"Music",11,1826,"Supernatural",18,1397,36
+"Music",11,1826,"Thriller",19,173,1
+"Mystery",12,761,"Action",1,3978,265
+"Mystery",12,761,"Adventure",2,3058,168
+"Mystery",12,761,"Comedy",3,5654,188
+"Mystery",12,761,"Drama",4,2636,261
+"Mystery",12,761,"Ecchi",5,863,18
+"Mystery",12,761,"Fantasy",6,3352,144
+"Mystery",12,761,"Hentai",7,1409,10
+"Mystery",12,761,"Horror",8,484,120
+"Mystery",12,761,"Mahou Shoujo",9,373,9
+"Mystery",12,761,"Mecha",10,1068,25
+"Mystery",12,761,"Music",11,1826,14
+"Mystery",12,761,"Mystery",12,761,761
+"Mystery",12,761,"Psychological",13,699,160
+"Mystery",12,761,"Romance",14,2198,103
+"Mystery",12,761,"Sci-Fi",15,2516,139
+"Mystery",12,761,"Slice of Life",16,1988,36
+"Mystery",12,761,"Sports",17,720,4
+"Mystery",12,761,"Supernatural",18,1397,262
+"Mystery",12,761,"Thriller",19,173,80
+"Psychological",13,699,"Action",1,3978,140
+"Psychological",13,699,"Adventure",2,3058,58
+"Psychological",13,699,"Comedy",3,5654,58
+"Psychological",13,699,"Drama",4,2636,244
+"Psychological",13,699,"Ecchi",5,863,17
+"Psychological",13,699,"Fantasy",6,3352,81
+"Psychological",13,699,"Hentai",7,1409,5
+"Psychological",13,699,"Horror",8,484,92
+"Psychological",13,699,"Mahou Shoujo",9,373,18
+"Psychological",13,699,"Mecha",10,1068,31
+"Psychological",13,699,"Music",11,1826,75
+"Psychological",13,699,"Mystery",12,761,160
+"Psychological",13,699,"Psychological",13,699,699
+"Psychological",13,699,"Romance",14,2198,74
+"Psychological",13,699,"Sci-Fi",15,2516,129
+"Psychological",13,699,"Slice of Life",16,1988,59
+"Psychological",13,699,"Sports",17,720,3
+"Psychological",13,699,"Supernatural",18,1397,143
+"Psychological",13,699,"Thriller",19,173,76
+"Romance",14,2198,"Action",1,3978,403
+"Romance",14,2198,"Adventure",2,3058,338
+"Romance",14,2198,"Comedy",3,5654,1008
+"Romance",14,2198,"Drama",4,2636,779
+"Romance",14,2198,"Ecchi",5,863,320
+"Romance",14,2198,"Fantasy",6,3352,463
+"Romance",14,2198,"Hentai",7,1409,186
+"Romance",14,2198,"Horror",8,484,37
+"Romance",14,2198,"Mahou Shoujo",9,373,67
+"Romance",14,2198,"Mecha",10,1068,97
+"Romance",14,2198,"Music",11,1826,133
+"Romance",14,2198,"Mystery",12,761,103
+"Romance",14,2198,"Psychological",13,699,74
+"Romance",14,2198,"Romance",14,2198,2198
+"Romance",14,2198,"Sci-Fi",15,2516,295
+"Romance",14,2198,"Slice of Life",16,1988,426
+"Romance",14,2198,"Sports",17,720,50
+"Romance",14,2198,"Supernatural",18,1397,265
+"Romance",14,2198,"Thriller",19,173,13
+"Sci-Fi",15,2516,"Action",1,3978,1316
+"Sci-Fi",15,2516,"Adventure",2,3058,731
+"Sci-Fi",15,2516,"Comedy",3,5654,666
+"Sci-Fi",15,2516,"Drama",4,2636,541
+"Sci-Fi",15,2516,"Ecchi",5,863,132
+"Sci-Fi",15,2516,"Fantasy",6,3352,305
+"Sci-Fi",15,2516,"Hentai",7,1409,31
+"Sci-Fi",15,2516,"Horror",8,484,82
+"Sci-Fi",15,2516,"Mahou Shoujo",9,373,43
+"Sci-Fi",15,2516,"Mecha",10,1068,801
+"Sci-Fi",15,2516,"Music",11,1826,101
+"Sci-Fi",15,2516,"Mystery",12,761,139
+"Sci-Fi",15,2516,"Psychological",13,699,129
+"Sci-Fi",15,2516,"Romance",14,2198,295
+"Sci-Fi",15,2516,"Sci-Fi",15,2516,2516
+"Sci-Fi",15,2516,"Slice of Life",16,1988,83
+"Sci-Fi",15,2516,"Sports",17,720,65
+"Sci-Fi",15,2516,"Supernatural",18,1397,128
+"Sci-Fi",15,2516,"Thriller",19,173,45
+"Slice of Life",16,1988,"Action",1,3978,58
+"Slice of Life",16,1988,"Adventure",2,3058,105
+"Slice of Life",16,1988,"Comedy",3,5654,1118
+"Slice of Life",16,1988,"Drama",4,2636,460
+"Slice of Life",16,1988,"Ecchi",5,863,86
+"Slice of Life",16,1988,"Fantasy",6,3352,233
+"Slice of Life",16,1988,"Hentai",7,1409,3
+"Slice of Life",16,1988,"Horror",8,484,7
+"Slice of Life",16,1988,"Mahou Shoujo",9,373,31
+"Slice of Life",16,1988,"Mecha",10,1068,12
+"Slice of Life",16,1988,"Music",11,1826,200
+"Slice of Life",16,1988,"Mystery",12,761,36
+"Slice of Life",16,1988,"Psychological",13,699,59
+"Slice of Life",16,1988,"Romance",14,2198,426
+"Slice of Life",16,1988,"Sci-Fi",15,2516,83
+"Slice of Life",16,1988,"Slice of Life",16,1988,1988
+"Slice of Life",16,1988,"Sports",17,720,96
+"Slice of Life",16,1988,"Supernatural",18,1397,150
+"Sports",17,720,"Action",1,3978,170
+"Sports",17,720,"Adventure",2,3058,41
+"Sports",17,720,"Comedy",3,5654,261
+"Sports",17,720,"Drama",4,2636,186
+"Sports",17,720,"Ecchi",5,863,29
+"Sports",17,720,"Fantasy",6,3352,14
+"Sports",17,720,"Hentai",7,1409,7
+"Sports",17,720,"Horror",8,484,2
+"Sports",17,720,"Mahou Shoujo",9,373,3
+"Sports",17,720,"Mecha",10,1068,13
+"Sports",17,720,"Music",11,1826,26
+"Sports",17,720,"Mystery",12,761,4
+"Sports",17,720,"Psychological",13,699,3
+"Sports",17,720,"Romance",14,2198,50
+"Sports",17,720,"Sci-Fi",15,2516,65
+"Sports",17,720,"Slice of Life",16,1988,96
+"Sports",17,720,"Sports",17,720,720
+"Sports",17,720,"Supernatural",18,1397,8
+"Sports",17,720,"Thriller",19,173,1
+"Supernatural",18,1397,"Action",1,3978,539
+"Supernatural",18,1397,"Adventure",2,3058,248
+"Supernatural",18,1397,"Comedy",3,5654,503
+"Supernatural",18,1397,"Drama",4,2636,357
+"Supernatural",18,1397,"Ecchi",5,863,120
+"Supernatural",18,1397,"Fantasy",6,3352,369
+"Supernatural",18,1397,"Hentai",7,1409,62
+"Supernatural",18,1397,"Horror",8,484,231
+"Supernatural",18,1397,"Mahou Shoujo",9,373,14
+"Supernatural",18,1397,"Mecha",10,1068,23
+"Supernatural",18,1397,"Music",11,1826,36
+"Supernatural",18,1397,"Mystery",12,761,262
+"Supernatural",18,1397,"Psychological",13,699,143
+"Supernatural",18,1397,"Romance",14,2198,265
+"Supernatural",18,1397,"Sci-Fi",15,2516,128
+"Supernatural",18,1397,"Slice of Life",16,1988,150
+"Supernatural",18,1397,"Sports",17,720,8
+"Supernatural",18,1397,"Supernatural",18,1397,1397
+"Supernatural",18,1397,"Thriller",19,173,54
+"Thriller",19,173,"Action",1,3978,83
+"Thriller",19,173,"Adventure",2,3058,17
+"Thriller",19,173,"Comedy",3,5654,12
+"Thriller",19,173,"Drama",4,2636,80
+"Thriller",19,173,"Ecchi",5,863,4
+"Thriller",19,173,"Fantasy",6,3352,22
+"Thriller",19,173,"Hentai",7,1409,1
+"Thriller",19,173,"Horror",8,484,41
+"Thriller",19,173,"Mahou Shoujo",9,373,9
+"Thriller",19,173,"Mecha",10,1068,10
+"Thriller",19,173,"Music",11,1826,1
+"Thriller",19,173,"Mystery",12,761,80
+"Thriller",19,173,"Psychological",13,699,76
+"Thriller",19,173,"Romance",14,2198,13
+"Thriller",19,173,"Sci-Fi",15,2516,45
+"Thriller",19,173,"Sports",17,720,1
+"Thriller",19,173,"Supernatural",18,1397,54
+"Thriller",19,173,"Thriller",19,173,173
